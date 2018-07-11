@@ -81,7 +81,7 @@ section p, section ul {
     
     .container {
         display: grid;
-        grid-template-columns: 30% 77%;
+        grid-template-columns: 30% 70%;
     }
 
     #links {
